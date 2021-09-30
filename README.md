@@ -1,6 +1,6 @@
 # Gitlab py scripts
-The code can be used to gather the list of GitHub groups/projects and the permissions of the users in those groups/projects. group/projects are saved in an Excel file
-
+The code can be used to gather the list of GitHub groups/projects and the permissions of the users in those groups/projects. group/projects are saved in an Excel file.
+It can also be used to do other things :)
 
 
 # Requirements
