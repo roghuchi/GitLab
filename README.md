@@ -18,3 +18,5 @@ Use the following command to run:
 
 
 <code>python3 list-of-projects-members.py</code>
+
+<code>python3 add-user-to-all-groups.py</code>
