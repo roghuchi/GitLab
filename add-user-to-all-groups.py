@@ -16,6 +16,8 @@ gl = gitlab.Gitlab( gitLabUrl, private_token=gitLabToken)
 groups = gl.groups.list(all=True)
 lgi = re.findall("\d+", str(groups))
 
+
+#add user
 for i in lgi:
     group = gl.groups.get(i)
     if group.members.get(userid).id == userid:
